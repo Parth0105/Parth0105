@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/parth-sharma-0754b61a4/">
   <img align="left" alt="Parth's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/parthbanathia">
+<a href="https://auth.geeksforgeeks.org/user/parthbanathia/articles">
   <img align="left" alt="Abhishek's Spotify" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png" />
 </a>
 
@@ -32,4 +32,8 @@
 ## 📈 GitHub Stats 📈
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham&hide=stars,issues" alt="parth" width="450"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham&layout=compact" width="450"/>
+### My Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
