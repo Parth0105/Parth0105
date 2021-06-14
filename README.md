@@ -29,11 +29,11 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 </br>
-## 📈 GitHub Stats 📈
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham&hide=stars,issues" alt="parth" width="450"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham&layout=compact" width="450"/>
 ### My Articles
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## 📈 GitHub Stats 📈
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham&hide=stars,issues" alt="parth" width="450"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham&layout=compact" width="450"/>
 
