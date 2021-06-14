@@ -13,7 +13,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Parth0105.Parth0105)
-**Languages and Tools:**  
+</br>
+## Languages and Tools:  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -28,7 +29,7 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 </br>
-📈 GitHub Stats 📈
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham" alt="parth"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham"/>
+## 📈 GitHub Stats 📈
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham&hide=stars,issues" alt="parth" width="450"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham&layout=compact" width="450"/>
 
