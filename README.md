@@ -25,10 +25,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongo/mongo.png"></code>
 </br>
 📈 GitHub Stats 📈
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham" alt="parth " />
-
-
-
+<span>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham" alt="parth " width="600" height="450"/>
+<p align="center"><img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="450"/>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham" width="600" height="450"/>
+</span>
