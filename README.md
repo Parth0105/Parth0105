@@ -9,7 +9,7 @@
   <img align="left" alt="Parth's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/parthbanathia/articles">
-  <img align="left" alt="Abhishek's Spotify" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png" />
+  <img align="left" alt="gfg" width="40px" src="https://media.geeksforgeeks.org/wp-content/uploads/20210224040124/JSBinCollaborativeJavaScriptDebugging6.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Parth0105.Parth0105)
@@ -62,4 +62,12 @@
 ## 📈 GitHub Stats 📈
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Parth0105&show_icons=true&theme=gotham&hide=stars,issues" alt="parth" width="450"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth0105&show_icons=true&theme=gotham&layout=compact" width="450"/>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth0105&theme=gotham" width="450" />
+
+
+<h3 align="left"> 🏆 GitHub Trophies </h3>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Parth0105&theme=gruvbox&no-bg=false&margin-w=15&margin-h=15&row=2&column=3&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" />
+</p>
+
 
