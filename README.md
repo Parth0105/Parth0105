@@ -30,6 +30,10 @@
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 </br>
+### My Videos
+
+[![Deadlock](https://img.youtube.com/vi/onkWXaXAgbY/0.jpg)](https://www.youtube.com/watch?v=onkWXaXAgbY)
+
 ### My Articles
 <ol>
  <li ><a href="https://www.geeksforgeeks.org/check-if-any-permutation-of-array-contains-sum-of-every-adjacent-pair-not-divisible-by-3/">Check if any permutation of array contains sum of every adjacent pair not divisible by 3</a></li>
